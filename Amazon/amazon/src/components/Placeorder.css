@@ -1,0 +1,37 @@
+.phoneImage{
+    height:500px;
+    width:370px;
+    padding:40px 130px;
+}
+.firstbox{
+    border-right: 2px solid rgb(231, 228, 228);
+}
+.secondbox{
+    padding:30px;
+    border-right: 2px solid rgb(231, 228, 228);
+}
+.secondbox1{
+    display: flex;
+    flex-direction: column;
+}
+.textgap{
+    margin: 10px;
+}
+.buttons{
+    display: flex;
+    flex-direction: column;
+    padding:40px;
+}
+.placeorder-button,.proccedbtn{
+    padding:10px;
+    background-color: rgb(255, 238, 0);
+    border:none;
+    font-size: 25px;
+    outline:none;
+    width:200px;
+    border-radius:10px;
+    margin:10px;
+}
+.placeorder-button:hover{
+    background-color: rgb(224, 210, 4);
+}

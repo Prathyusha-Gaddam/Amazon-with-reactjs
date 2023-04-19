@@ -1,0 +1,47 @@
+.MainPage{
+    background: url('https://ik.imagekit.io/amazon789/amazon-image/amazon-image/1348517_in_prime_2_pd_3000x1200_Eng._CB663273097_.jpg.png?updatedAt=1680179786098');
+    background-repeat: no-repeat;
+    height:100vw;
+    width:100vw;
+    background-size: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(240, 238, 238);
+}
+.advertisements{
+    margin-left: 35px;
+    margin-top: 0px;
+    background-color: white;
+    width: 380px;
+    height:500px;
+}
+.adverstisement-body{
+    display:flex;
+    flex-wrap: wrap;
+}
+.adverstisement-header{
+    font-weight: bold;
+    font-size: 28px;
+    padding: 10px 45px;
+}
+.adverstisement-footer{
+    padding: 40px;
+    color: skyblue;
+}
+.advertisement-footer{
+    padding: 13px 40px;
+    color: skyblue;
+}
+.adverstisement-footer:hover,.advertisement-footer:hover{
+    color:rgb(29, 180, 240);
+    text-decoration:underline;
+}
+.adverstisement-bodyImage{
+    width: 280px;
+    height:300px;
+    padding: 0px 50px;
+}
+.adverstisement-FourbodyImage{
+    padding: 20px;
+
+}

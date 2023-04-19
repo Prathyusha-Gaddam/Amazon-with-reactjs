@@ -1,0 +1,19 @@
+.product{
+    padding:30px;
+}
+.product-image img{
+    height:300px;
+    width:200px;
+}
+.product-name{
+    font-size: 20px;
+    font-weight: 400;
+}
+.product-rating{
+    color:skyblue;
+}
+.product-price{
+    color:brown;
+    font-weight: 600;
+    font-size: 25px;
+}

@@ -1,0 +1,77 @@
+.navbar_component{
+    width:100vw;
+    height:80px;
+    background-color: #131A22;
+    display: flex;
+    color: white;
+}
+.navbar_logo{
+    background: url('https://ik.imagekit.io/amazon789/amazon-image/amazon-image/sprite.png?updatedAt=1680179793440') no-repeat -20px -180px;
+	width: 152px;
+	height: 46px;
+    margin: 20px 15px;
+}
+.navbar_locator{
+    color: white;
+    display: flex;
+    margin: 20px 20px;
+}
+.navbar_locatorImage{
+    font-weight: bold;
+    background: url('https://ik.imagekit.io/amazon789/amazon-image/amazon-image/sprite_350x.png?updatedAt=1680179793527') no-repeat -70px -305px;
+	width: 19px;
+	height: 22px;
+
+}
+.navbar_location{
+    margin-left: 5px;
+    margin-right: 60px;
+}
+.inputbox{
+    display: flex;
+}
+.searchbox{
+    width:650px;
+    height:40px;
+}
+.searchiconout{
+    border-radius: 0px 5px 5px 0px;
+    background-color: #FEBE68;
+    height: 45px;
+    width: 43px;;
+}
+.searchicon{
+    background: url('https://ik.imagekit.io/amazon789/amazon-image/amazon-image/sprite_350x.png?updatedAt=1680179793527') no-repeat -9px -289px;
+	width: 23px;
+	height: 23px;
+    margin: 9px;
+}
+.dropbox{
+    width: 43px;
+    height: 46px;
+    border-radius: 5px 0px 0px 5px;
+    margin-right: 0px;
+}
+.navbar-signin{
+    margin-left:60px;
+}
+.navbar-returns{
+    margin-left:40px;
+}
+.navbar-cart{
+    display:flex;
+    margin-left: 20px;
+}
+.carticon{
+    font-size: 45px;
+}
+.navbar-footer{
+    display: flex;
+    background-color:#22383E;
+    width: 100vw;
+    height:40px;
+    color:white;
+}
+.footer-text{
+    margin: 5px 20px;
+}
